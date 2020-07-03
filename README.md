@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on learning to fly, breaking stuff at Baremetrics and breaking in a new motorbike
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about anything. I may not have an answer but I'll appreciate the question!
+- 📫 How to reach me: https://keybase.io/alexhouse
+
 <!--
 **alexhouse/alexhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
