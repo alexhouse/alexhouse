@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning to fly, breaking stuff at Baremetrics and breaking in a new motorbike
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently breaking stuff at Baremetrics and waiting for some warmer weather to break in my new motorbike
+- 🚁 I recently obtained my private helicopter pilot's license
+- 🌱 I’m also experimenting with Clojure
 - 💬 Ask me about anything. I may not have an answer but I'll appreciate the question!
 - 📫 How to reach me: https://keybase.io/alexhouse
 
