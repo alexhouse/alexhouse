@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently breaking stuff at Baremetrics and waiting for some warmer weather to break in my new motorbike
-- 🚁 I recently obtained my private helicopter pilot's license
+- 🔭 I’m currently breaking stuff with IMMO Capital and waiting for some warmer weather to break in my new motorbike
+- 🚁 I'm half way through my commercial helicopter pilot's license
 - 🌱 I’m also experimenting with Clojure
 - 💬 Ask me about anything. I may not have an answer but I'll appreciate the question!
 - 📫 How to reach me: https://keybase.io/alexhouse
