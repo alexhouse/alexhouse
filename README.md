@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently breaking stuff with Kennek Solutions Ltd
+- 🔭 I’m currently looking for my next opportunity
 - 🚁 I hold a current CPL(H) and am rated on the Robinson R44 and Bell 206
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://keybase.io/alexhouse
